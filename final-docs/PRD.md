@@ -77,7 +77,7 @@ Testing an existing application requires understanding its structure, choosing t
 ### Must-Have / M1 foundation
 
 - Local project intake; source/revision provenance; safe archive validation.
-- Multi-select testing scope via CLI and `.testagent.yaml`; natural-language scope parsing can be enabled later, but must resolve to the same scope model.
+- Multi-select testing scope via CLI and `.testagent.yaml`; natural-language scope selection is accepted, but M1 versus later timing remains open and every channel must resolve to the same normalized scope model.
 - Authorization manifest with allowed targets/actions and per-check risk approval.
 - Inspector and capability registry with applicability states and evidence/confidence.
 - Plan review/edit/approval; expectation provenance; include/exclude reasons.
