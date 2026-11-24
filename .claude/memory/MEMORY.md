@@ -5,4 +5,5 @@ p0-owners-assignment.md — Owner assignments for all 24 P0 backlog items; enabl
 implementation-roadmap.md — Roadmap from M0 design freeze through M1 release candidate
 agent-instructions.md — Instructions for agents working on the ASTA project
 tbd-resolution-session.md — Live session tracking all 15 TBD items resolved on 2026-11-23
+project-status-current.md — Current project status: M1a complete, 135 tests passing, transitioning to M1b worker execution
 MEMORY.md — File index (this file)
