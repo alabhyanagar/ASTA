@@ -1,2 +1,70 @@
-Other-Older-demo-ref-docs
-work
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Packaging
+.venv/
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# Linters & Tooling
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# ASTA Runtime & Local State
+.asta/
+.remember/
+
+# Node / Frontend (Phase 3 Web UI)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+apps/web/dist/
+apps/web/.next/
+apps/web/out/
+
+# IDE & OS Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / Working Directories & Temporary Scripts
+work/
+Other-Older-demo-ref-docs/
+read_docx*.py
